@@ -1,6 +1,7 @@
-# 03
-# bus-公交车管理系统
+# 03-bus-公交车管理系统
 公交车管理系统: 有网站公告、失物招领、公交线路、留言建议
+
+[文档地址](http://wechat.zjrcsy.cn/)
 
 软件架构
 springboot+mysql+vue
@@ -22,7 +23,4 @@ springboot+mysql+vue
 ![公交2](https://github.com/MaCa-BaKa/bus-/assets/102128690/53593cf5-1bdf-4dd5-bfa6-5d1c06c0d4fe)
 ![公交1](https://github.com/MaCa-BaKa/bus-/assets/102128690/059dee41-cbca-4cfc-95d8-525c14b9a666)
 
-**
-
-# 需要本系统联系vx: MaKaBaca0
-**
+[文档地址](http://wechat.zjrcsy.cn/)
